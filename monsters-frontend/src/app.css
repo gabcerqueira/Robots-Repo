@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background: rgb(11, 13, 112);
+  background: linear-gradient(90deg, rgba(11, 13, 112, 1) 32%, rgba(24, 22, 48, 0.8295693277310925) 78%);
+
+
+}
+
+body {
+  margin: 0;
+}
+
+.monsters-title {
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 74px;
+  margin: auto;
+  color: #0ccac4;
+
+}
